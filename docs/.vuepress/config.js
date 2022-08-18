@@ -1,4 +1,6 @@
-const { defaultTheme } = require('vuepress')
+import { defineUserConfig } from 'vuepress'
+const { defaultTheme } = require('@vuepress/theme-default')
+
 const { searchPlugin } = require('@vuepress/plugin-search')
 module.exports = {
   plugins: [
