@@ -1,4 +1,4 @@
-const { defaultTheme } = require('vuepress')
+const { defaultTheme } = require('@vuepress/theme-default')
 const { searchPlugin } = require('@vuepress/plugin-search')
 module.exports = {
   plugins: [
