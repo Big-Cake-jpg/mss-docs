@@ -2,7 +2,7 @@
 
 # MSS 服务器帮助文档
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Big-Cake-jpg/mss-docs?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/Big-Cake-jpg/mss-docs?style=flat-square) ![GitHub pull requests](https://img.shields.io/github/issues-pr/Big-Cake-jpg/mss-docs?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/Big-Cake-jpg/mss-docs?style=flat-square) ![GitHub Repo stars](https://img.shields.io/github/stars/Big-Cake-jpg/mss-docs?style=flat-square) ![GitHub](https://img.shields.io/github/license/Big-Cake-jpg/mss-docs?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Big-Cake-jpg/mss-docs?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/Big-Cake-jpg/mss-docs?style=flat-square) ![GitHub pull requests](https://img.shields.io/github/issues-pr/Big-Cake-jpg/mss-docs?style=flat-square) ![GitHub deployments](https://img.shields.io/github/deployments/Big-Cake-jpg/mss-docs/Production?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/Big-Cake-jpg/mss-docs?style=flat-square) ![GitHub Repo stars](https://img.shields.io/github/stars/Big-Cake-jpg/mss-docs?style=flat-square) ![GitHub](https://img.shields.io/github/license/Big-Cake-jpg/mss-docs?style=flat-square)
 
 ## 介绍
 
