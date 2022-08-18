@@ -2,6 +2,8 @@
 
 # MSS 服务器帮助文档
 
+![GitHub last commit](https://img.shields.io/github/last-commit/Big-Cake-jpg/mss-docs?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/Big-Cake-jpg/mss-docs?style=flat-square) ![GitHub pull requests](https://img.shields.io/github/issues-pr/Big-Cake-jpg/mss-docs?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/Big-Cake-jpg/mss-docs?style=flat-square) ![GitHub Repo stars](https://img.shields.io/github/stars/Big-Cake-jpg/mss-docs?style=flat-square) ![GitHub](https://img.shields.io/github/license/Big-Cake-jpg/mss-docs?style=flat-square)
+
 ## 介绍
 
 你还在为服务器相关问题得不到回答而感到困惑吗？你还在为一些~~脑瘫~~问题而高血压吗？
