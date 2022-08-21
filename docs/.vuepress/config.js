@@ -43,12 +43,13 @@ module.exports = {
           '/rules/mss.html',
           '/rules/ops-server.html'
          /* '/rules/ask-questions.html' */
-        ] 
+        ]
     },
     navbar: [
       { text: '主页', link: '/', },
       { text: '生存服', link: '/mss/', },
       { text: '服务器规则', link: '/rules/', },
+      { text: '隐私声明', link: '/policies/privacy.html', },
       { text: 'GitHub', link: 'https://github.com/Big-Cake-jpg/mss-docs', target:'_blank', }
     ],
     displayAllHeaders: true,
