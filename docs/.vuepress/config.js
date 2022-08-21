@@ -69,5 +69,6 @@ module.exports = {
     ['link', { rel: 'icon', href: '/favicon.png' }],
     ['link', { rel: 'apple-touch-icon', href: '/favicon.png' }],
     ['meta', { name: 'theme-color', content: '#45b1e1' }],
+    ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
   ]
 }
