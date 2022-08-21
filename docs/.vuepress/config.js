@@ -1,5 +1,7 @@
 const { defaultTheme } = require('vuepress')
 const { searchPlugin } = require('@vuepress/plugin-search')
+const { pwaPlugin } = require('@vuepress/plugin-pwa')
+const { pwaPopupPlugin } = require('@vuepress/plugin-pwa-popup')
 module.exports = {
   lang: 'zh-CN',
   plugins: [
@@ -8,6 +10,17 @@ module.exports = {
       locales: {
         '/': {
           placeholder: '搜索',
+        },
+      },
+    }),
+    pwaPlugin({
+      skipWaiting: false,
+    }),
+    pwaPopupPlugin({
+      locales: {
+        '/': {
+          message: '发现新内容可用',
+          buttonText: '刷新',
         },
       },
     }),
@@ -54,6 +67,7 @@ module.exports = {
   description: '社区维护的 MSS 服务器帮助文档 兼 脑溢血治疗中心',
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }],
-    ['link', { rel: 'apple-touch-icon', href: '/favicon.png' }]
+    ['link', { rel: 'apple-touch-icon', href: '/favicon.png' }],
+    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
   ]
 }

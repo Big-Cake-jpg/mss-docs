@@ -1,0 +1,16 @@
+{
+    "name": "MSS 服务器帮助文档",
+    "short_name": "MSS 服务器帮助文档",
+    "description": "社区维护的 MSS 服务器帮助文档 兼 脑溢血治疗中心",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#45b1e1",
+    "icons": [
+      {
+        "src": "/favicon.png",
+        "sizes": "300x300",
+        "type": "image/png"
+      }
+    ]
+}
