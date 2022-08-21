@@ -2,9 +2,12 @@
 home: true
 heroImage: /favicon.png
 actions:
-  - text: 让我们趋势罢 →
+  - text: 立即查看
     link: /mss/
     type: primary
+  - text: 加入交流群
+    link: https://qm.qq.com/cgi-bin/qm/qr?k=AgUzek75uol8Biw04oo8kSzzv-IYiXHC
+    type: secondary
 features:
 - title: 玩家为主
   details: 以玩家的视角进行文档的编写，从而更方便地解决问题
