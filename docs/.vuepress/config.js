@@ -30,7 +30,6 @@ module.exports = {
     sidebar: {
       '/mss/': [
           '/mss/introducing.html',
-          '/mss/about-whitelist.html',
           '/mss/commands.html',
           '/mss/troubleshooting.html'
           /* '/mss/how-to-play.html', */
