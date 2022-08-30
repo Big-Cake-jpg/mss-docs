@@ -29,7 +29,6 @@ module.exports = {
     logo: '/favicon.png',
     sidebar: {
       '/mss/': [
-          ['/mss/', '首页'],
           '/mss/introducing.html',
           '/mss/about-whitelist.html',
           '/mss/commands.html',
@@ -38,7 +37,6 @@ module.exports = {
           /* '/mss/q&a.html' */
         ],
       '/rules/': [ 
-          ['/rules/', '首页'],
          /* '/rules/qq-group.html', */
           '/rules/mss.html',
           '/rules/ops-server.html'
@@ -47,15 +45,15 @@ module.exports = {
     },
     navbar: [
       { text: '主页', link: '/', },
-      { text: '生存服', link: '/mss/', },
-      { text: '服务器规则', link: '/rules/', },
+      { text: '生存服', link: '/mss/introducing.html', },
+      { text: '服务器规则', link: '/rules/mss.html', },
       { text: '隐私声明', link: '/policies/privacy.html', },
       { text: 'GitHub', link: 'https://github.com/Big-Cake-jpg/mss-docs', target:'_blank', }
     ],
     displayAllHeaders: true,
     sidebarDepth: 2,
     docsRepo: 'Big-Cake-jpg/mss-docs',
-    docsBranch: 'main',
+    docsBranch: 'master',
     docsDir: 'docs',
     editLinks: true,
     editLinkText: '帮助我们改善此页面',
