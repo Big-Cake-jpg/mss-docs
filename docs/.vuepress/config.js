@@ -38,7 +38,6 @@ module.exports = {
       '/rules/': [ 
          /* '/rules/qq-group.html', */
           '/rules/mss.html',
-          '/rules/ops-server.html'
          /* '/rules/ask-questions.html' */
         ]
     },
