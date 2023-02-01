@@ -6,7 +6,15 @@
 
 服务器 IP 请加群获取，禁止外传
 
-本服务器禁止作弊，允许部分在 vanilla 范围内的 Mods
+禁止使用外挂、矿透等破坏游戏平衡的辅助；
+
+发言保持文明，OP 有权制止不良行为；
+
+可使用不破坏游戏平衡的辅助类 Mod；
+
+私人物品未经允许禁止取得，如果物主举报视为偷窃处理；
+
+拒绝熊服，熊服一律 BAN-IP。
 
 有问题找管理，避免造成纠纷
 
@@ -16,23 +24,25 @@
 
 `/tps` 查看卡顿 `/tpsbar`
 
+具体使用教程请看 `命令列表`
+
 ## 加入群组
 
 你可以通过以下的方式加入我们的群组：
 
 - [QQ 群组](https://qm.qq.com/cgi-bin/qm/qr?k=AgUzek75uol8Biw04oo8kSzzv-IYiXHC)
 
-群内配有茶馆工作室的小可机器人、服务器消息同步 Bot。由于机器人产生的消息过多，因此可能会打扰到你
+群内配有茶馆工作室的小可机器人，以及一些玩家的第三方Bot(例如XDBot)。由于机器人产生的消息过多，因此可能会打扰到你
 
-> 您可以在 QQ 群设置内打开消息免打扰避免过多消息的干扰。
+> 您可以在 QQ 群设置内打开消息免打扰避免过多消息的干扰(●'◡'●)。
 
-## 旧地图下载
+## 旧地图下载（全部失效）
 
 一周目地图下载：
 
- - <https://pan.z0z0r4.top/s/zRXSk>
+ - <https://pan.z0z0r4.top/s/zRXSk>（已失效）
 
 二周目地图下载：
 
- - <https://pan.z0z0r4.top/s/JkWfl?password=PCLS>
-   - 镜像：<https://mirror.bafanglvren.games/pcls>
+ - <https://pan.z0z0r4.top/s/JkWfl?password=PCLS>（已失效）
+   - 镜像：<https://mirror.bafanglvren.games/pcls>（已失效）
